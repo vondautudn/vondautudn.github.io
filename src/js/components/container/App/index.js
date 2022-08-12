@@ -18,7 +18,7 @@ library.add(fas, fab);
 
 const DocsPageComponent = ({ match }) => {
     const { contentId } = match.params;
-    console.log('contentId', contentId);
+    
     return (
         <React.Fragment>
             <Header withSearchEnabled />
@@ -30,7 +30,7 @@ const DocsPageComponent = ({ match }) => {
 const App = () => {
     const urlSearchParams = new URLSearchParams(window.location.search);
     let search = urlSearchParams.get('search');
-    // console.log('params', urlSearchParams.get('search'));
+    
     return (
         <Router>
             <Switch>

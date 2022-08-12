@@ -19,7 +19,7 @@ const PageHeader = () => (
                         <form className="search-form w-100">
                             <input type="text" placeholder="Tra cứu..." name="search"
                                    className="form-control search-input"/>
-                            <button type="submit" className="btn search-btn" value="Search">
+                            <button type="submit" className="btn search-btn" value="search">
                                 <FontAwesomeIcon icon={['fas','search']} fixedWidth />
                             </button>
                         </form>

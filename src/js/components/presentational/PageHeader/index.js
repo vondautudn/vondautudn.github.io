@@ -13,7 +13,7 @@ const PageHeader = () => (
                 <div className="container" style={{transform: 'matrix(1, 0.09, 0, 1, 0, 0)' }}>
                     <h1 className="page-heading styled-heading single-col-max mx-auto">Sổ tay nghiệp vụ</h1>
                     <div className="page-intro single-col-max mx-auto">
-                        Sổ tra cứu nghiệp vụ của Cục Thống Kê Đà Nẵng
+                        Điều tra vốn đầu tư thực hiện theo quyết định số 1849/QĐ-TCTK ngày 16/10/2017 của Tổng cục Thống kê
                     </div>
                     <div className="main-search-box pt-3 d-block mx-auto">
                         <form className="search-form w-100">

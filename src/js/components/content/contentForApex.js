@@ -954,7 +954,7 @@ export const contentsForApex = [
         title: 'Đầu tư của đơn vị sự nghiệp',
         icon: ['fas', 'box'],
         description: 'Phiếu số 04/VĐTSN-N về thu thập thông tin vốn đầu tư thực hiện của đơn vị sự nghiệp thuộc ngành giáo dục và y tế. Áp dụng đối với đơn vị sự nghiệp công lập có đầu tư từ nguồn vốn tự có, vốn liên doanh, liên kết là chủ yếu và đơn vị sự nghiệp ngoài công lập.',
-        lastModifiedDate: '2022-08-13',
+        lastModifiedDate: '2022-08-14',
         sections: [
             {
                 id: 'item-4-1', label: '1. Đối tượng áp dụng',

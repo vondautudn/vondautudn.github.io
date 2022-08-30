@@ -11,7 +11,7 @@ const PageHeader = () => (
                 <div className="theme-bg-shapes-right"/>
                 <div className="theme-bg-shapes-left"/>
                 <div className="container" style={{transform: 'matrix(1, 0.09, 0, 1, 0, 0)' }}>
-                    <h1 className="page-heading styled-heading single-col-max mx-auto">Tài liệu hướng dẫn điện tử</h1>
+                    <h1 className="page-heading styled-heading single-col-max mx-auto">Tài liệu hướng dẫn</h1>
                     <div className="page-intro single-col-max mx-auto">
                         Điều tra vốn đầu tư thực hiện theo quyết định số 1849/QĐ-TCTK ngày 16/10/2017 của Tổng cục Thống kê
                     </div>

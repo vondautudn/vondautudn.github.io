@@ -11,7 +11,7 @@ const Header = ({ withSearchEnabled }) => (
                         <a className="navbar-brand" href="/">
                             <img className="logo-icon me-2" height="50"
                                 src="https://www.gso.gov.vn/wp-content/uploads/2021/01/gso_logo.png"
-                                alt="logo"/><span className="logo-text">Tài liệu hướng dẫn điện tử</span>
+                                alt="logo"/><span className="logo-text">Tài liệu hướng dẫn</span>
                         </a>
                     </div>
                 </div>
